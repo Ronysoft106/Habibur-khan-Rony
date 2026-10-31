@@ -1,0 +1,6 @@
+{
+  "name": "BoyZoneW - Custom Jersey & Premium Sports Store",
+  "description": "Premium sports wear, football jerseys, real-time custom jersey designer with image filters, live order tracking, and seamless checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
